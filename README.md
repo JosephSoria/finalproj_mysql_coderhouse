@@ -1,11 +1,11 @@
 # Proyeto final - MySQL - coderhouse
 
 curso :	MySQL  
-instituciÛn : CoderHouse [www.coderhouse.com]  
-alumno : JosÈ Soria DÌaz  
-comisiÛn : 53185  
+instituci√≥n : CoderHouse [www.coderhouse.com]  
+alumno : Jos√© Soria D√≠az  
+comisi√≥n : 53185  
 entrega : Mayo 2024  
-tem·tica : FOTOGRAFÕA
+tem√°tica : FOTOGRAFIA
 
 
 ---
@@ -17,28 +17,28 @@ Proyecto final que plasma conocimientos desarrollados durante la cursada de MySQ
 
 
 
-### **IntroducciÛn**
+### **Introducci√≥n**
 
-Un proyecto comercial web llamado FotografÌa se pone en marcha, el proyecto cuenta con varias ·reas de desarrollo pero hoy nos enfocaremos en la gestiÛn de base de datos y un breve an·lisis de la evoluciÛn del proyecto en alguna tem·tica en particular, desde la fundaciÛn del proyecto en inicios del 2023.
+Un proyecto comercial web llamado Fotograf√≠a se pone en marcha, el proyecto cuenta con varias √°reas de desarrollo pero hoy nos enfocaremos en la gesti√≥n de base de datos y un breve an√°lisis de la evoluci√≥n del proyecto en alguna tem√°tica en particular, desde la fundaci√≥n del proyecto en inicios del 2023.
 
 
 
 ### **Objetivo**
 
-Se desea diseÒar un esquema de base de datos a fin de poder gestionar una plataforma web de fotografÌa. Dicho esquema podr· almacenar informaciÛn est·tica por ejemplo datos de contacto, e informaciÛn din·mica, interacciones con comentarios, Ûrdenes de compra, pagos, etcÖ  
-La base de datos debe permitir la generaciÛn y creaciÛn de reporterÌa para el an·lisis de la evoluciÛn del proyecto comercial.
+Se desea dise√±ar un esquema de base de datos a fin de poder gestionar una plataforma web de fotograf√≠a. Dicho esquema podr√° almacenar informaci√≥n est√°tica por ejemplo datos de contacto, e informaci√≥n din√°mica, interacciones con comentarios, √≥rdenes de compra, pagos, etc.  
+La base de datos debe permitir la generaci√≥n y creaci√≥n de reporter√≠a para el an√°lisis de la evoluci√≥n del proyecto comercial.
 
 
 
-### **Problem·tica**
+### **Problem√°tica**
 
-Poder gestionar un sitio con usuarios de todo el mundo. Aunque inicialmente el modelo de negocios iniciÛ con mercado en pocos paÌses de Latam, hoy ya se encuentra disponible en Argentina, Uruguay, Chile, Brasil, Colombia, MÈxico y Estados Unidos. En el futuro ser· abierto a otros diferentes mercados.
+Poder gestionar un sitio con usuarios de todo el mundo. Aunque inicialmente el modelo de negocios inici√≥ con mercado en pocos pa√≠ses de Latam, hoy ya se encuentra disponible en Argentina, Uruguay, Chile, Brasil, Colombia, M√©xico y Estados Unidos. En el futuro ser√° abierto a otros diferentes mercados.
 
 
 
 ### **Modelo de negocio**
 
-Un portal comercial en donde solo los fotÛgrafos puedan exponer sus trabajos personales y al mismo tiempo pueda unir a fotÛgrafos y usuarios como compradores de su contenido.  
-Los fotÛgrafos disponen sus fotografÌas en ·lbumes. El usuario podr· comprar el contenido del ·lbum y este estar· disponible para su descarga en alta resoluciÛn. Al mismo tiempo el usuario podr· ponerse en contacto para consultar y requerir servicio profesional de su fotÛgrafo preferido para el estilo o proyecto que necesite. El fotÛgrafo publicar· sus ·lbumes/im·genes que considere seg˙n su estilo de preferencia. Los elementos que son puestos a la venta son los ·lbumes, pudiÈndose comprar el ·lbum con todo su contenido y no asÌ fotografÌas individuales. La interactividad sÌ puede establecerse a nivel de fotografÌa.
+Un portal comercial en donde solo los fot√≥grafos puedan exponer sus trabajos personales y al mismo tiempo pueda unir a fot√≥grafos y usuarios como compradores de su contenido.  
+Los fot√≥grafos disponen sus fotograf√≠as en √°lbumes. El usuario podr√° comprar el contenido del √°lbum y este estar√° disponible para su descarga en alta resoluci√≥n. Al mismo tiempo el usuario podr√° ponerse en contacto para consultar y requerir servicio profesional de su fot√≥grafo preferido para el estilo o proyecto que necesite. El fot√≥grafo publicar√° sus √°lbumes/im√°genes que considere seg√∫n su estilo de preferencia. Los elementos que son puestos a la venta son los √°lbumes, pudi√©ndose comprar el √°lbum con todo su contenido y no as√≠ fotograf√≠as individuales. La interactividad s√≠ puede establecerse a nivel de fotograf√≠a.
 
 
