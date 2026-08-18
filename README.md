@@ -62,3 +62,4 @@ En documentación PDF dentro de este repositorio se encontrarán todos los porme
 
 El proyecto en PowerBI puede ser utilizado a modo de consulta sin necesidad de vincularlo con una base de datos, hasta el momento que se quiera actualizar el dashboard, donde sin la configuración previa mencionada la herramienta arrojará errores al no encontrar los datos vinculados.
 
+
