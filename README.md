@@ -56,7 +56,9 @@ Los fotógrafos disponen sus fotografías en álbumes. El usuario podrá comprar
 ### **Desarrollo**
 
 Para ello se diseña un modelo de base de datos transaccional OLTP, estructura y DER, tablas y dependencias entre ellas, vistas, funciones, stored procedures y triggers. Se disponibiliza script de generación de estructura, creación de objetos y carga de datos en sus tablas.
+
 Luego se le dedica un apartado de analítica con la creación de un dashboard de control en PowerBI estableciendo conexión a la base de datos. PBI lee vistas/tablas materializadas para agilizar rendimiento.
 En documentación PDF dentro de este repositorio se encontrarán todos los pormenores en la configuración de la herramienta de visualización para establecer la conexión con la base de datos en forma genérica.
+
 El proyecto en PowerBI puede ser utilizado a modo de consulta sin necesidad de vincularlo con una base de datos, hasta el momento que se quiera actualizar el dashboard, donde sin la configuración previa mencionada la herramienta arrojará errores al no encontrar los datos vinculados.
 
