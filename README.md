@@ -13,7 +13,7 @@ institución : CoderHouse [www.coderhouse.com]
 alumno : José Soria Díaz  
 comisión : 53185  
 docente : Santiago Luis Acosta Rapoani
-entrega : Mayo 2024  
+entrega : Mayo 2024
 temática : FOTOGRAFIA
 
 
