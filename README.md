@@ -1,3 +1,26 @@
+# Proyeto final - MySQL - coderhouse
+---
+
+
+<p align="center">
+  <img src="/preview.png" alt="MySQL + Power BI" width="840">
+</p>
+
+
+
+
+curso :	MySQL  
+institución : CoderHouse [www.coderhouse.com]  
+alumno : José Soria Díaz  
+comisión : 53185  
+docente : Santiago Luis Acosta Rapoani
+entrega : Mayo 2024  
+temática : FOTOGRAFIA
+
+
+---
+
+
 - [Proyeto final - MySQL - coderhouse](#proyeto-final---mysql---coderhouse)
     - [**Overview**](#overview)
     - [**Introducción**](#introducción)
@@ -7,15 +30,7 @@
     - [**Desarrollo**](#desarrollo)
 
 
-# Proyeto final - MySQL - coderhouse
 
-curso :	MySQL  
-institución : CoderHouse [www.coderhouse.com]  
-alumno : José Soria Díaz  
-comisión : 53185  
-docente : Santiago Luis Acosta Rapoani
-entrega : Mayo 2024  
-temática : FOTOGRAFIA
 
 
 ---
